@@ -6,7 +6,7 @@
 ## About Me
 
 Backend developer with 4 years of experience building microservices with Java and Spring Boot.
-I design systems under Hexagonal Architecture and take testing seriously — coverage above 85% using JUnit, Mockito, and Testcontainers.
+I design systems under Hexagonal Architecture, with testing via JUnit, Mockito, and Testcontainers.
 
 I've worked on event-driven systems with Apache Kafka, reactive APIs with Spring WebFlux,
 and deployments on Kubernetes and AWS (Lambda, S3).
@@ -16,14 +16,14 @@ Recently completed a specialization in AI and Big Data (2025).
 
 ## Featured Project · Videogame Library System
 
-A multi-service personal project built as an architectural exercise:
+A multi-service personal project:
 
 🎮 **Backend** — Java 25 / Spring Boot 4, Hexagonal Architecture, JWT auth, IGDB API integration  
 📊 **Analytics microservice** — Apache Kafka, real-time event consumption  
 🖥️ **Frontend** — Angular  
 🦀 **Rust port** — backend rewritten in Rust as a language and architecture exploration  
 
-Includes unit and integration tests throughout. Pinned repos below ↓
+Pinned repos below ↓
 
 ---
 
