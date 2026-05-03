@@ -4,7 +4,6 @@
 
 # 👨‍💻 Francisco José Soler Conchello
 
-<img width="782" height="294" alt="Github_Cabecera_Animado_Calidad_Media_1a7cc2ff-8b36-4459-9214-47cf03264d07" src="https://github.com/user-attachments/assets/267d675a-c282-48c5-addb-d01f167df55d" />
 
 ---
 
