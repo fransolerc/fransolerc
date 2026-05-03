@@ -1,46 +1,38 @@
-# Hi, I'm Fran 👋
-### Backend Developer · Java · Spring Boot · Hexagonal Architecture
+![Visitas](https://komarev.com/ghpvc/?username=fransolerc&style=flat-square&color=blue)](https://komarev.com/ghpvc/?username=fransolerc)
+![Seguidores](https://img.shields.io/github/followers/fransolerc?label=Seguidores&style=social)
+![Estrellas](https://img.shields.io/github/stars/fransolerc?style=social)
+
+# 👨‍💻 Francisco José Soler Conchello
+
+<img width="782" height="294" alt="Github_Cabecera_Animado_Calidad_Media_1a7cc2ff-8b36-4459-9214-47cf03264d07" src="https://github.com/user-attachments/assets/267d675a-c282-48c5-addb-d01f167df55d" />
 
 ---
 
-## About Me
+## 🌟 Quién soy
 
-Backend developer with 4 years of experience building microservices with Java and Spring Boot.
-I design systems under Hexagonal Architecture and take testing seriously — coverage above 85% using JUnit, Mockito, and Testcontainers.
-
-I've worked on event-driven systems with Apache Kafka, reactive APIs with Spring WebFlux,
-and deployments on Kubernetes and AWS (Lambda, S3).
-Recently completed a specialization in AI and Big Data (2025).
+Desarrollador backend de Zaragoza con curiosidad real por cómo están hechas las cosas por dentro.
+Me gusta construir sistemas que tengan sentido, trabajar con autonomía y en equipos donde el código importa.
 
 ---
 
-## Featured Project · Videogame Library System
+## 🚀 Con qué trabajo
 
-A multi-service personal project built as an architectural exercise:
-
-🎮 **Backend** — Java 25 / Spring Boot 4, Hexagonal Architecture, JWT auth, IGDB API integration  
-📊 **Analytics microservice** — Apache Kafka, real-time event consumption  
-🖥️ **Frontend** — Angular  
-🦀 **Rust port** — backend rewritten in Rust as a language and architecture exploration  
-
-Includes unit and integration tests throughout. Pinned repos below ↓
-
----
-
-## Tech Stack
-
+**APIs y servicios:** Spring Boot, Spring WebFlux, REST, JWT
+**Event-driven:** Apache Kafka — procesamiento de eventos en tiempo real
+**Arquitectura:** Hexagonal — separación limpia de puertos y adaptadores
+**Infraestructura:** Kubernetes, Docker, AWS (Lambda, S3), PostgreSQL, Liquibase
+**Testing:** JUnit, Mockito, WireMock, Testcontainers
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,kubernetes,docker,aws,postgres,angular,rust,git" />
 </p>
 
 ---
 
-## Find Me
+### 🌐 Encuéntrame
 
-<a href="https://www.linkedin.com/in/franciscojosesoler" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://mnf.red/fransolerc" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Manfred-5C2D91?style=for-the-badge&logoColor=white" alt="Manfred"/>
-</a>
+💼 [LinkedIn](https://www.linkedin.com/in/franciscojosesoler)
+📋 [Manfred](https://mnf.red/fransolerc)
+👾 [GitHub](https://github.com/fransolerc)
+---
+
+Gracias por visitar mi perfil 🚀
