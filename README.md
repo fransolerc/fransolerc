@@ -1,5 +1,3 @@
-# 👨‍💻 Francisco José Soler Conchello
-
 ## 🌟 Quién soy
 
 Desarrollador backend de Zaragoza con curiosidad real por cómo están hechas las cosas por dentro.
