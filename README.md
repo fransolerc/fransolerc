@@ -3,8 +3,6 @@
 Desarrollador backend de Zaragoza con curiosidad real por cómo están hechas las cosas por dentro.
 Me gusta construir sistemas que tengan sentido, trabajar con autonomía y en equipos donde el código importa.
 
----
-
 ## 🚀 Con qué trabajo
 
 - **APIs y servicios:** Spring Boot, Spring WebFlux, REST, JWT
@@ -18,13 +16,3 @@ Me gusta construir sistemas que tengan sentido, trabajar con autonomía y en equ
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,kubernetes,docker,aws,postgres,angular,rust,git" />
 </p>
-
----
-
-### 🌐 Encuéntrame
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/franciscojosesoler)
-
----
-
-Gracias por visitar mi perfil 🚀
