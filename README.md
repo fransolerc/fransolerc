@@ -14,5 +14,5 @@ Me gusta construir sistemas que tengan sentido, trabajar con autonomía y en equ
 ## 👨‍💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,kubernetes,docker,aws,postgres,angular,rust,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,kubernetes,docker,aws,postgres,angular,rust,python, git" />
 </p>
